@@ -23,7 +23,7 @@ function Footer() {
 				</div>
 				<div className="p-5">
 					<ul>
-						<p className="text-gray-800 font-bold text-2xl pb-4">Affiliations</p>
+						
 						
 						<a href="https://www.leadcellb2b.com" className="text-gray-500 text-md pb-2 font-semibold hover:text-amber-600 cursor-pointer">
 							Leadcell B2B
