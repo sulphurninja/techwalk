@@ -8,15 +8,15 @@ function Header() {
                 <img className="w-44 object-contain cursor-pointer " src="/thelogo2.png" alt="man reading technology feed, news and walking."  />
             </Link>
             <div className="hidden md:inline-flex items-center space-x-5 ">
-                <a href="/privacy">Privacy</a>
+                <a href="/about">About</a>
                 <h2>Contact</h2>
                 <h3 className="text-white cursor-pointer bg-green-700 px-4 py-1 rounded-full">Follow</h3>
             </div>
 
         </div>
        <div className="flex items-center space-x-5  text-green-700">
-        <Link href='/about'>
-        <h3 className="cursor-pointer">About</h3>
+        <Link href='/privacy'>
+        <h3 className="cursor-pointer">Privacy</h3>
         </Link>
         <a href="https://www.thetechwalk.com/post/blockchain-no-crypto-decentralized-tech-adoption" className="border px-4 py-1 rounded-full cursor-pointer border-green-700">Featured</a>
        </div>
