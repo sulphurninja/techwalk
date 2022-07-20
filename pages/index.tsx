@@ -15,9 +15,12 @@ export default function Home ({posts}: Props) {
   return (
     <div className="max-w-7xl mx-auto">
       <Head>
-        <title>The Tech Walk</title>
+        <title>The Tech Walk - Hot tech takes</title>
         <link rel="icon" href="/favicon.ico" />
         <link rel="preconnect" href="https://fonts.googleapis.com" /> 
+        <meta name="description" content="The Tech Walk : hottest tech takes on the coolest tech stacks.
+News, Tutorials, Articles, Tech Blogs and a lot more!" />
+        <meta name="keywords" content="HTML, CSS, JavaScript, Technology blog, blogs, tech, web development, developers, programmers, software development, software developers" />
       </Head>
       <Header />
       <div className="flex justify-between items-center bg-slate-100 border-y border-black py-10 lg:py">
