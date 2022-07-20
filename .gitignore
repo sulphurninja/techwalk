@@ -4,6 +4,8 @@
 /node_modules
 /.pnp
 .pnp.js
+thetechwalk/node_modules
+thetechwalk/dist
 
 # testing
 /coverage

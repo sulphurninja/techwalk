@@ -5,6 +5,10 @@ module.exports = {
     './components/**/*.{js,ts,jsx,tsx}',
   ],
   theme: {
+    fontFamily:{
+      'wow': ['Barlow Semi Condensed', 'sans-serif'],
+
+    },
     extend: {},
   },
   plugins: [],
