@@ -18,7 +18,7 @@ function Header() {
         <Link href='/privacy'>
         <h3 className="cursor-pointer">Privacy</h3>
         </Link>
-        <a href="https://www.thetechwalk.com/post/blockchain-no-crypto-decentralized-tech-adoption" className="border px-4 py-1 rounded-full cursor-pointer border-green-700">Featured</a>
+        <a href="https://thetechwalk.com/post/blockchain-no-crypto-decentralized-tech-adoption" className="border px-4 py-1 rounded-full cursor-pointer border-green-700">Featured</a>
        </div>
       
     </header>
