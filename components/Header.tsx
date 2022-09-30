@@ -21,8 +21,9 @@ function Header() {
         <Link href='/about'>
         <h3 className="cursor-pointer">About Us</h3>
         </Link>
-        <a href="https://thetechwalk.com/post/blockchain-no-crypto-decentralized-tech-adoption" className="border px-4 py-1 rounded-full cursor-pointer border-green-700">Featured</a>
+        <a href="https://www.thetechwalk.com/post/node-js-frameworks-you-should-know" className="border px-4 py-1 rounded-full cursor-pointer border-green-700">Featured</a>
        </div>
+       
       
     </header>
   )
